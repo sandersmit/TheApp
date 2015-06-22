@@ -1,2 +1,2 @@
 # TheApp
-App experiments with phonegap build 
+App experiments with phonegap build by Sander Smit
